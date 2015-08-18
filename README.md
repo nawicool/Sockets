@@ -10,6 +10,6 @@
 9. server_Post_reply.c --> server read the get command and send the form and read the data inside the form.
 10. Server_read_the_file.c --> server read the file name and give the output.
 11. Server_read_and_SendFile_by_char.c --> server reads the file and send it chrachter by charachter using fgetc()
-12. 
+12. Server_Send_Data.c -->sends data to the clients different formats.
 
 Use "telnet IP_ADD PORTNO" command if u  have command line system to test the server.
