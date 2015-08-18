@@ -6,4 +6,5 @@
 5. client_for_simple_server.c ---> This is a simple client used for simple server (above file). 
 6. HTTP_HTML_Server.c --> simple HTTP_HTML server which gives the html code as response.
 7. HTTP_HTML_Server_DynamicHTML.c --> shows the ip adress of client in html (90% same as above).
+8. parser_HTTP_GET.c --> parse the HTTP GET and gives the filename on the screen.
 
